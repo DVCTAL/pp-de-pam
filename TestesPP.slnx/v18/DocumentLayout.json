@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jaolo\\source\\repos\\PP-WeatherForecast-main1\\PP-WeatherForecast-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE62451-9B06-1E4A-E674-B24813347847}|TestesPP\\TestesPP.csproj|c:\\users\\jaolo\\source\\repos\\pp-weatherforecast-main1\\pp-weatherforecast-main\\testespp\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9AE62451-9B06-1E4A-E674-B24813347847}|TestesPP\\TestesPP.csproj|solutionrelative:testespp\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE62451-9B06-1E4A-E674-B24813347847}|TestesPP\\TestesPP.csproj|c:\\users\\jaolo\\source\\repos\\pp-weatherforecast-main1\\pp-weatherforecast-main\\testespp\\services\\weatherapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE62451-9B06-1E4A-E674-B24813347847}|TestesPP\\TestesPP.csproj|solutionrelative:testespp\\services\\weatherapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherApiService.cs",
+              "DocumentMoniker": "C:\\Users\\jaolo\\source\\repos\\PP-WeatherForecast-main1\\PP-WeatherForecast-main\\TestesPP\\Services\\WeatherApiService.cs",
+              "RelativeDocumentMoniker": "TestesPP\\Services\\WeatherApiService.cs",
+              "ToolTip": "C:\\Users\\jaolo\\source\\repos\\PP-WeatherForecast-main1\\PP-WeatherForecast-main\\TestesPP\\Services\\WeatherApiService.cs",
+              "RelativeToolTip": "TestesPP\\Services\\WeatherApiService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T23:17:57.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\jaolo\\source\\repos\\PP-WeatherForecast-main1\\PP-WeatherForecast-main\\TestesPP\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "TestesPP\\Views\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\jaolo\\source\\repos\\PP-WeatherForecast-main1\\PP-WeatherForecast-main\\TestesPP\\Views\\MainPage.xaml",
+              "RelativeToolTip": "TestesPP\\Views\\MainPage.xaml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwCYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-15T23:14:56.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
