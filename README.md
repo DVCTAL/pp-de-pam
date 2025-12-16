@@ -1,6 +1,8 @@
 #  Previsão do Tempo
 
 Aplicação web de **previsão do tempo** que permite ao usuário consultar as condições climáticas informando um **CEP**.
+Davi Costa de Almeida 
+RM:231718
 
 O sistema exibe a previsão atual e dos próximos dias, incluindo:
 - Condição do tempo
