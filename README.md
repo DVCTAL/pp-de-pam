@@ -10,10 +10,9 @@ O sistema exibe a previsão atual e dos próximos dias, incluindo:
 ---
 
 ## Demonstração
-<img src="TestesPP/Resources/Screenshots/img1.jpeg" width="30%"/>
+<img src="TestesPP/Resources/Screenshots/img1.jpeg" width="30%" />
 
-<img src="TestesPP/Resources/Screenshots/img2.jpeg" width="30%"/>
-
+<img src="TestesPP/Resources/Screenshots/img2.jpeg" width="30%" />
 
 ---
 
