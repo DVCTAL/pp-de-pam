@@ -12,6 +12,7 @@ O sistema exibe a previsão atual e dos próximos dias, incluindo:
 ## Demonstração
 <p align="center">
   <img src="img/img1.jpeg" width="30%" />
+  <img src="img/img2.jpeg" width="30%" />
 </p>
 
 
